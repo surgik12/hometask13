@@ -26,7 +26,8 @@ header > p > button{
 }
 
 header > p > button:active{
-    color: black;
+    color: white;
+    background-color: black;
 }
 
 p > button{
@@ -253,7 +254,8 @@ h3{
 }
 
 .dire > button:active{
-    color: black;
+    color: white;
+    background-color: black;
 }
 
 .dire1{
